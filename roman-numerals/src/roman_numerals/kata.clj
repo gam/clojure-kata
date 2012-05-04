@@ -1,6 +1,6 @@
 (ns roman-numerals.kata)
 
-(def ^:dynamic *translations*
+(def *translations*
   [[100 ["C" "D" "M"]]
    [10  ["X" "L" "C"]]
    [1   ["I" "V" "X"]]])
